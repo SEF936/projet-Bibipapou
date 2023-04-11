@@ -1,0 +1,35 @@
+.navbar {
+    display: flex;
+    justify-content: left;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+
+#logo {
+    width: 5rem;
+    height: 5rem;
+    
+}
+.container-icons{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+
+.burger-image{
+    width: 2rem;
+    height: 2rem;
+}
+
+.cart-image{
+    width: 3rem;
+    height: 3rem;
+}
+.search-image{
+    width: 1.5rem;
+    height: 1.5rem;
+  
+}
